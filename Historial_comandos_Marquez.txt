@@ -1,0 +1,202 @@
+whoami
+who
+id
+w
+last
+uname -a
+porcdsaeinfo
+cat /proc/cpuinfo
+ls -l
+ssh-keygen -t
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls -l
+cat id_id_ed25519.pub
+cat id_ed25519.pub
+exit
+pwd
+ls -l
+ssh-keygen -t ed25519
+ls -l
+ls -lsa
+cd  .ssh
+cat id_ed25519.pub
+cd ..
+pwd
+ls -l
+mkdir repogit
+ls -l
+cd repogit/
+git clone git@github.com:eliasmar942-cmyk/113_Repositorio_Prueba.git
+ls -l
+cd 113_Repositorio_Prueba
+ls -l
+ls -la
+git status
+echo hola
+echo hola  > saludo.txt
+ls -l
+cat saludo.txt
+git status
+git add .
+git status
+git commit -m "agregue saludo"
+gi42m"
+git config --global user.email "you@exam"
+git config --global user.email "eliasmar942@gmail.com"
+git commit -m "agregue saludo"
+
+osboxes@osboxes:~/repogit/113_Repositorio_Prueba$
+echo hola > saludo.txt
+ls -l
+git clone git@github.com:eliasmar942-cmyk/113_Repositorio_Prueba.git
+ls -l
+cd 113_Repositorio_Prueba
+ls -l
+ls -la
+git status
+echo hola
+echo hola > saludo.txt
+ls -l
+cat saludo.txt
+git status
+git add.
+git status
+git add .
+git status
+git commit -m "agregue saludo"
+git config --global user.email "eliasmar942@gmailcom"
+git config --global user.name "Elias"
+git commit -m "agregue saludo"
+git status
+git push
+exit
+pwd
+mkdir clase4
+ls -l
+cd clase4
+cat << FIN > archivo1.txt
+Linea1
+Linea2
+Linea3
+Linea4
+Linea5
+FIN
+
+ls -l
+cat archivo1.txt
+cat << EOF > archivo2.txt
+Linea6
+Linea7
+EOF
+
+ls -l
+cat archivo1.txt archivo2.txt > archivo3.txt
+cat archivo3.txt
+grep 3 archivo3.txt
+grep -c  3 archivo3.txt
+grep -n  3 archivo3.txt
+grep -v  3 archivo3.txt
+grep -l  linea archivo3.txt
+grep -i linea archivo3.txt
+grep -ic linea archivo3.txt
+grep -ic linea4 archivo3.txt
+grep -i linea4 archivo3.txt
+grep -i linea4 archivo3.txt | grep a
+pwd
+cd ..
+exit
+“ssh-keygen -t ed25519
+ssh-keygen -t ed25519
+ls -la
+ls -l
+cat $HOME/.ssh/*.pub
+cd
+mcd
+ls -l
+mkdir repogit
+cd repogit
+git clone git@github.com:eliasmar942-cmyk/TP1_AySO_Elias_Marquez.git
+ls
+ls -l
+pwd
+cd TP1_AySO_Elias_Marquez
+cd
+pwd
+cd TP1_AySO_Elias_Marquez
+cd repogit
+cd TP1_AySO_Elias_Marquez
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+grep -i Home_url /etc/os-release > datos_url.txt
+cat datos_url.txt
+whoami
+echo “Elias=$(whoami)” > datos_usuario.txt
+cat datos_usuario.txt
+git status
+git add .
+git config --global user.email "eliasmar942@gmail.com"
+git config --global user.name "Elias"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+git push
+cat <<EOF >> README.md
+Alumno: Elias
+División: 113
+Turno: Mañana
+EOF
+
+cat README.md
+git add README.md datos_usuario.txt
+git push
+pwd
+cd
+pwd
+mkdir -p material1/{uni1,uni2,uni3} material2/{uni1,uni2,uni3}
+tree
+ls -l
+ls -R material1 material2 
+history -a
+cp ~/.bash_history ./Historial_comandos_Marquez.txt
+git add .
+git commit -m "ADD: Historial de comandos de Marquez"
+pwd
+ls -la ~/.bash_history
+ls -la
+cp ~/.bash_history ./Historial_comandos_Marquez.txt
+ls -la
+ls -l
+git add .
+cat Historial_comandos_Marquez.txt
+git add .
+git init
+ls -la
+cd TP1_AySO_Elias_Marquez
+ls -l
+exit
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit
+cd repogit
+git@github.com:Elias/TP1_AySO_Perez_Elias.git
+ls -la
+cd TP1_AySO_Elias_Marquez
+ls -la
+git status
+git add .
+git commit -m "ADD: Historial de comandos de Marquez"
+git push
+history -a
