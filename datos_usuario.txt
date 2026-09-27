@@ -1,1 +1,2 @@
 “Elias=osboxes”
+model name	: Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz
